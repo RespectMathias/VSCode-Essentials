@@ -1,2 +1,2 @@
 # VSCode-Essentials
- Includes VSCode profiles and exe compiled from bat file to open the current folder.
+ Includes VSCode profiles and exe compiled from bat file to open the current folder of the sln.
